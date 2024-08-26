@@ -10,8 +10,6 @@ In parallel to my development journey, I’ve delved into Data Analysis. My inte
 ### Future Goals 🌟
 As I progress through my degree, my goal is to become a proficient software developer or data analyst. I’m committed to leveraging my technical skills to contribute to innovative projects and tackle real-world challenges. Beyond coding and data analysis, I’m dedicated to exploring emerging technologies and staying abreast of industry trends to continuously enhance my expertise.
 
-## 📈 GitHub Stats
-![Bukeka's GitHub stats](https://github-readme-stats.vercel.app/api?username=indodanazwide&show_icons=true&theme=radical)
 
 ## 📫 Get In Touch
 Feel free to reach out to me via [Email](mailto:nxumalobukeka019@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/bukekanxumalo).
