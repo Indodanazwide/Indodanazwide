@@ -1,14 +1,14 @@
 # Hello, I'm Bukeka Nxumalo 👋
 I’m a second-year Bachelor of Information and Communication Technology student at Durban University of Technology in South Africa. My journey into the world of technology began in 2022, fueled by a deep passion for both Software Development and Data Analysis & Management.
 
-## Passion for Software Development 🚀
-My fascination with technology started early and rapidly evolved into a dedicated pursuit of backend development. During my first year of studies, I was introduced to C#, which ignited my enthusiasm for the .NET Platform. This powerful framework has become a focal point of my academic and personal projects, offering a dynamic environment for developing robust applications.
+## Passion for Frontend Development 🎨
+Currently, I’m diving deep into Frontend Development, where I'm honing my skills in HTML, CSS, and JavaScript. I’m also exploring popular JavaScript frameworks like React, which enables me to build dynamic and responsive user interfaces. I’m dedicated to mastering the art of crafting seamless user experiences.
 
-## Exploring Data Analysis 📊
-In parallel to my development journey, I’ve delved into Data Analysis. My interest in this field began with learning SQL Databases, where I discovered the importance of data in driving decision-making and optimizing processes. SQL has provided me with a strong foundation in managing and analyzing data, and I’m keen to expand my skills further.
+### Other Interests 🚀
+While my current focus is on Frontend Development, I’ve also explored Backend Development as part of my academic curriculum. My journey began with C# during my first year at University, which ignited my enthusiasm for the .NET Platform and backend technologies. Additionally, I have a strong foundation in SQL Databases, which has enriched my understanding of data-driven development.
 
 ### Future Goals 🌟
-As I progress through my degree, my goal is to become a proficient software developer or data analyst. I’m committed to leveraging my technical skills to contribute to innovative projects and tackle real-world challenges. Beyond coding and data analysis, I’m dedicated to exploring emerging technologies and staying abreast of industry trends to continuously enhance my expertise.
+As I continue to grow as a developer, I aim to become proficient in both Frontend and Backend Development, with a focus on full-stack development. I’m committed to contributing to innovative projects that blend design and functionality, and I’m eager to stay updated with the latest trends and technologies in the industry.
 
 ## 📈 GitHub Stats
 ![Bukeka's GitHub stats](https://github-readme-stats.vercel.app/api?username=indodanazwide&show_icons=true&theme=radical)
