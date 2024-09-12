@@ -11,7 +11,7 @@
 - **Frontend**: HTML5, CSS3, JavaScript, Vue.js, Bootstrap
 - **Backend**: PostgreSQL, (Learning soon: Node.js and Express)
 - **Tools**: Git, GitHub, Notion
-- 
+  
 ## 🚀 What I'm Currently Working On:
 
 - Completing my [2024/2025 Software Developer Roadmap](https://whimsical.com/mastering-web-application-development-AmQYsH7TtizqHcmiivzTx9?ref=chatgpt) focusing on Frontend Development.
