@@ -7,9 +7,9 @@
 ---
 
 ## 🛠️ Skills
-- **Frontend:** HTML5, CSS3, SASS, JavaScript, React.js, Vue.js, Responsive Design  
+- **Frontend:** HTML5, CSS3, SASS, JavaScript, React.js, Vue.js 
 - **Backend:** Node.js with Express, JavaScript  
-- **Database:** MySQL , MongoDB
+- **Database:** MySQL , PostgreSQL
 - **APIs:** RESTful APIs  
 - **Authentication & Authorization:** JWT  
 - **Tools:** Git & GitHub (Version Control)  
@@ -18,10 +18,9 @@
 
 ## 🚀 What I'm Currently Working On:
 - **Rendezvous Restaurant Website**  
-  A full-stack restaurant system built with **React.js**, **Node.js**, and **MongoDB**.  
+  A full-stack restaurant system built with **React.js**, **Node.js(Express.js)**, and **MySQL**.  
   Users can browse the menu, make takeaways, and make reservations.  
-  ➡️ [View frontend on GitHub](https://github.com/Indodanazwide/rendezvous-website-client)
-  ➡️ [View backend on GitHub](https://github.com/Indodanazwide/rendezvous-website-server).
+  ➡️ [View on GitHub](https://github.com/Indodanazwide/rendezvous-project)
 
 - Continuing to explore advanced JavaScript frameworks like **Vue.js** and expanding backend skills with **MySQL** and **Express.js**.
 
