@@ -1,19 +1,23 @@
-# 👋 Hi, I'm Bukeka Nxumalo!
+# 👋 Hi, I'm Bukeka Nxumalo!  
 
-🎓 **ICT Student** at Durban University of Technology  
-💻 **Aspiring Software Developer** with skills in frontend and backend development, aiming to build dynamic and scalable web and mobile applications  
-🌱 Currently focused on honing skills in **React.js, Node.js, Express,js, SQL**
+🎓 **Final-Year ICT Student** at **Durban University of Technology**  
+💻 **Aspiring Software Engineer | Business Intelligence Enthusiast**  
+🌱 Currently focused on **Business Intelligence, Data Analysis, and Project Management**  
 
 ---
 
-## 🛠️ Skills
-- **Frontend:** HTML5, CSS3, JavaScript, React.js
+## 🛠️ Technical Skills  
+### ✔️ Experienced In:  
+- **Frontend:** HTML5, CSS3, JavaScript, React.js  
 - **Backend:** Node.js with Express, JavaScript  
-- **Database:** SQL
+- **Database:** SQL  
 - **APIs:** RESTful APIs  
 - **Authentication & Authorization:** JWT  
 - **Tools:** Git & GitHub (Version Control)  
 
+### 🚀 Currently Learning:  
+- **Business Intelligence:** Power BI, SQL for Data Analysis  
+- **Project Management:** Agile, Scrum 
 ---
 
 ## 🚀 What I'm Currently Working On:
